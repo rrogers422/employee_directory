@@ -1,0 +1,19 @@
+{
+  "name": "employee_directory",
+  "version": "1.0.0",
+  "description": "employeedirectory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrogers422/employee_directory.git"
+  },
+  "author": "reaganrogers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrogers422/employee_directory/issues"
+  },
+  "homepage": "https://github.com/rrogers422/employee_directory#readme"
+}
